@@ -1,0 +1,1118 @@
+{
+  "guild": {
+    "id": "1303033879506059344",
+    "name": "Art server",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1303033879506059347",
+    "type": "GuildTextChat",
+    "categoryId": "1303033879506059345",
+    "category": "Text Channels",
+    "name": "art_channel",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-02-15T21:44:41.456119+01:00",
+  "messages": [
+    {
+      "id": "1303034322005131335",
+      "type": "GuildMemberJoin",
+      "timestamp": "2024-11-04T17:33:11.573+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303063648830361752",
+      "type": "GuildMemberJoin",
+      "timestamp": "2024-11-04T19:29:43.633+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joined the server.",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303065299100106844",
+      "type": "Reply",
+      "timestamp": "2024-11-04T19:36:17.088+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**generate an art image with a human in it** - @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303065298823417887",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303065298823417887/maducollins_77087_31570_generate_an_art_image_with_a_human_in_i_e25e0712-ce42-4e1c-89c4-327c1aba2b8d.png?ex=67b23021&is=67b0dea1&hm=f9e1bcbf6fb86ef2d944e0b224bfe48573c90301be4e1cac9340c89a40d6fdb2&",
+          "fileName": "maducollins_77087_31570_generate_an_art_image_with_a_human_in_i_e25e0712-ce42-4e1c-89c4-327c1aba2b8d.png",
+          "fileSizeBytes": 7306840
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303065184834949130",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303320170634285146",
+      "type": "Reply",
+      "timestamp": "2024-11-05T12:29:03.197+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**In a Vertical Rectangular composition, create a stunning piece of art in the style of MidJourney, focusing on the concept of transformation and growth. Utilizing realism as the artistic style, capture the essence of transitioning from darkness to light, depicting a metamorphosis of the soul. Employ a triadic color scheme to infuse the artwork with depth and vibrancy, using a harmonious combination of three colors that complement each other perfectly. Let these colors represent the stages of change and evolution, from the deep, dark tones symbolizing struggle and uncertainty, to the bright, vivid hues signifying hope and renewal. Experiment with charcoal as the primary medium, allowing its rich texture and smoky appearance to enhance the dramatic narrative of transformation within the artwork. Use the dynamic contrast of light and shadow to convey the emotional intensity of this profound journey, as the viewer is drawn into the intricate details of the evolving forms and shapes. Celebrate the beauty of change and the resilience of the human spirit, inviting the audience to contemplate their own transformative experiences through the evocative power of your art. Capture the essence of growth and renewal in a masterpiece that transcends reality, inviting viewers to immerse themselves in the transformative journey depicted on the vertical canvas before them.** - @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303320170034495559",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303320170034495559/maducollins_77087_31570_In_a_Vertical_Rectangular_composition_c_1ea9bc9e-1fb8-4151-bbe8-c606f1e88e78.png?ex=67b1cbff&is=67b07a7f&hm=9936b0e9432e236806a373d81eaf661b52e0f4ec8fd46049c1c1bf4a9db8135b&",
+          "fileName": "maducollins_77087_31570_In_a_Vertical_Rectangular_composition_c_1ea9bc9e-1fb8-4151-bbe8-c606f1e88e78.png",
+          "fileSizeBytes": 7715553
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303320032595677245",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303329365500629002",
+      "type": "Reply",
+      "timestamp": "2024-11-05T13:05:35.424+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**In a Vertical Rectangular composition, create a stunning piece of art in the style of MidJourney, focusing on the concept of transformation and growth. Utilizing realism as the artistic style, capture the essence of transitioning from darkness to light, depicting a metamorphosis of the soul. Employ a triadic color scheme to infuse the artwork with depth and vibrancy, using a harmonious combination of three colors that complement each other perfectly. Let these colors represent the stages of change and evolution, from the deep, dark tones symbolizing struggle and uncertainty, to the bright, vivid hues signifying hope and renewal. Experiment with charcoal as the primary medium, allowing its rich texture and smoky appearance to enhance the dramatic narrative of transformation within the artwork. Use the dynamic contrast of light and shadow to convey the emotional intensity of this profound journey, as the viewer is drawn into the intricate details of the evolving forms and shapes. Celebrate the beauty of change and the resilience of the human spirit, inviting the audience to contemplate their own transformative experiences through the evocative power of your art. Capture the essence of growth and renewal in a masterpiece that transcends reality, inviting viewers to immerse themselves in the transformative journey depicted on the vertical canvas before them.** - Variations (Strong) by @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303329365005959282",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303329365005959282/maducollins_77087_31570_In_a_Vertical_Rectangular_composition_c_5715269c-6ee1-4510-b2fa-73b7766d41b8.png?ex=67b1d48f&is=67b0830f&hm=1ef1fe69d75a0d381e9fb50b494f7a48cbc895fb1080c8f9885344a8b89abb5d&",
+          "fileName": "maducollins_77087_31570_In_a_Vertical_Rectangular_composition_c_5715269c-6ee1-4510-b2fa-73b7766d41b8.png",
+          "fileSizeBytes": 6006076
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303320170634285146",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303329410069565480",
+      "type": "Reply",
+      "timestamp": "2024-11-05T13:05:46.05+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**In a Vertical Rectangular composition, create a stunning piece of art in the style of MidJourney, focusing on the concept of transformation and growth. Utilizing realism as the artistic style, capture the essence of transitioning from darkness to light, depicting a metamorphosis of the soul. Employ a triadic color scheme to infuse the artwork with depth and vibrancy, using a harmonious combination of three colors that complement each other perfectly. Let these colors represent the stages of change and evolution, from the deep, dark tones symbolizing struggle and uncertainty, to the bright, vivid hues signifying hope and renewal. Experiment with charcoal as the primary medium, allowing its rich texture and smoky appearance to enhance the dramatic narrative of transformation within the artwork. Use the dynamic contrast of light and shadow to convey the emotional intensity of this profound journey, as the viewer is drawn into the intricate details of the evolving forms and shapes. Celebrate the beauty of change and the resilience of the human spirit, inviting the audience to contemplate their own transformative experiences through the evocative power of your art. Capture the essence of growth and renewal in a masterpiece that transcends reality, inviting viewers to immerse themselves in the transformative journey depicted on the vertical canvas before them.** - Image #2 @Madu Collins",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303329409767571548",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303329409767571548/maducollins_77087_31570_In_a_Vertical_Rectangular_composition_c_f351df35-12e9-41e4-904c-9637c8bcbca3.png?ex=67b1d499&is=67b08319&hm=39ca707807800c388cd89d483bf06bb4517277c6b4c051842bf141408014b5fb&",
+          "fileName": "maducollins_77087_31570_In_a_Vertical_Rectangular_composition_c_f351df35-12e9-41e4-904c-9637c8bcbca3.png",
+          "fileSizeBytes": 1356574
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303329365500629002",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303441405036990535",
+      "type": "Default",
+      "timestamp": "2024-11-05T20:30:47.731+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine test prompt",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303448277051773000",
+      "type": "Default",
+      "timestamp": "2024-11-05T20:58:06.147+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Whispers of Eternity\"\n\nDescription: Create a vertical rectangular artwork that embodies the concept of fleeting moments frozen in time. Utilize classic artistic techniques to evoke a sense of nostalgia and elegance. The monochromatic color palette should evoke a sense of timelessness and introspection.\n\nImagine a scene where shadows dance across a moonlit courtyard, casting whispered secrets among ancient stone pillars. Capture the essence of a fleeting memory captured in oil paint, with subtle hints of emotion and mystery woven into every brushstroke.\n\nFocus on intricate details and textures to create a sense of depth and richness in the artwork. Let the viewer immerse themselves in the timeless beauty of this piece, where past and present merge into a harmonious symphony of light and shadow.\n\nLet your creativity flow and bring to life the whispers of eternity in this captivating artwork. Embrace the delicate balance between fleeting moments and eternal memories, and invite the viewer to lose themselves in the enchanting world you have created.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303460043349557278",
+      "type": "Default",
+      "timestamp": "2024-11-05T21:44:51.451+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Whispers of the Soul\"\n\nDescription: Create a square artwork in the style of expressionism using graphite on paper. The concept for this piece is open-ended, allowing the AI artist to explore any artistic concept that resonates with them. Dive deep into the realm of emotions and thoughts, translating them into expressive lines and shapes.\n\nIncorporate a color palette inspired by analogous colors, blending harmoniously to evoke a sense of unity and coherence in the artwork. Let shades of blues, greens, and purples intermingle and interact, creating a visual symphony that engages the viewer's senses.\n\nCapture the essence of inner thoughts and feelings, translating them into abstract forms that convey a sense of introspection and contemplation. Let the graphite lines dance across the square canvas, weaving a narrative that speaks to the complexities of the human experience.\n\nUltimately, aim to create a piece that serves as a mirror to the soul, reflecting the intricate tapestry of emotions and thoughts that make us who we are. Let the whispers of the soul guide your hand as you bring this expressive artwork to life.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303460296735854646",
+      "type": "Reply",
+      "timestamp": "2024-11-05T21:45:51.863+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title: \"Whispers of the Soul\" Description: Create a square artwork in the style of expressionism using graphite on paper. The concept for this piece is open-ended, allowing the AI artist to explore any artistic concept that resonates with them. Dive deep into the realm of emotions and thoughts, translating them into expressive lines and shapes. Incorporate a color palette inspired by analogous colors, blending harmoniously to evoke a sense of unity and coherence in the artwork. Let shades of blues, greens, and purples intermingle and interact, creating a visual symphony that engages the viewer's senses. Capture the essence of inner thoughts and feelings, translating them into abstract forms that convey a sense of introspection and contemplation. Let the graphite lines dance across the square canvas, weaving a narrative that speaks to the complexities of the human experience. Ultimately, aim to create a piece that serves as a mirror to the soul, reflecting the intricate tapestry of emotions and thoughts that make us who we are. Let the whispers of the soul guide your hand as you bring this expressive artwork to life.** - @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303460296496517270",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303460296496517270/maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__2dd0d3a8-2291-4563-9d60-deef3b564dff.png?ex=67b1a5bf&is=67b0543f&hm=92422a954cae9fc1ace2f1f11ee054654b86b8d52ec4080e360a57e43cf7df8c&",
+          "fileName": "maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__2dd0d3a8-2291-4563-9d60-deef3b564dff.png",
+          "fileSizeBytes": 9223088
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303460168591474810",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303471475558453298",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:30:17.102+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Ethereal Harmony\"\n\nDescription:\nCreate a square artwork that explores the concept of \"Ethereal Harmony\" in a classic artistic style. Imagine a serene and transcendent scene where various elements come together in perfect balance and unity. The use of complementary colors will enhance the visual impact of the artwork, creating a sense of harmony and cohesion.\n\nIncorporate intricate details and subtle textures using acrylic paint to bring depth and dimension to the composition. Let the brushstrokes flow seamlessly, capturing the essence of a peaceful and harmonious environment.\n\nFocus on creating a sense of tranquility and beauty, reflecting a moment of pure balance and serenity in a surreal and otherworldly setting. Allow your creativity to flourish and express the idea of harmony through the visual language of art.\n\nImmerse yourself in the creative process and let the artwork unfold organically, capturing the essence of \"Ethereal Harmony\" in a captivating square masterpiece.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303474760210190448",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:43:20.224+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Ethereal Harmony\"\n\nDescription:\nCreate a captivating square-shaped artwork in the classic artistic style that embodies the concept of \"Ethereal Harmony.\" Imagine a scene where ethereal beings coexist in perfect balance and peace. Use acrylic paint to bring this concept to life on your canvas.\n\nThe preferred colors for this piece are complementary, so think about utilizing colors like deep blues and vibrant oranges, or rich purples and bright yellows to create a visually striking contrast. Let the colors blend and mix organically to depict the seamless connection between these otherworldly beings.\n\nFocus on intricate details and delicate brushwork to convey the ethereal and mystical quality of the scene. Play with light and shadow to enhance the sense of depth and movement in your artwork.\n\nImmerse yourself in the realm of imagination and bring forth a piece that speaks of serenity, unity, and the beauty of existence in perfect harmony. Let your creativity flow and create a masterpiece that mesmerizes and enchants viewers with its otherworldly charm.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303475860136787991",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:47:42.467+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Ethereal Reflections\"\n\nDescription:\nCreate a mesmerizing square artwork in a classic artistic style that explores the concept of reflections. Using acrylic paint in monochromatic tones, imagine a serene and mystical scene where reality blends with illusion. Capture the essence of ethereal beauty and subtle intricacies in your composition.\n\nImagine a tranquil lake at dusk, its surface reflecting the hues of a fading sunset. Delve into the depths of the water's reflection, where shadows dance and light shimmers softly. Let the viewer glimpse into a world where boundaries blur and imagination reigns supreme.\n\nFocus on the interplay of light and shadow, creating a sense of depth and mystery within the confines of the square canvas. Experiment with texture and brush strokes to evoke a sense of movement and fluidity, enhancing the otherworldly atmosphere of the artwork.\n\nInvite the viewer to lose themselves in the delicate balance between the tangible and the intangible, the real and the imagined. Embrace the power of monochromatic tones to convey a sense of timelessness and ethereality in your creation.\n\nUltimately, strive to create a piece that transports the viewer to a realm of beauty and contemplation, where the boundaries between reality and fantasy blur in a harmonious dance of light and shadow.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303477017676611624",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:52:18.446+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Ephemeral Whispers\"\n\nDescription: Delve into the realm of abstract art with this captivating horizontal rectangular piece. The concept behind this artwork is inspired by the fleeting nature of our thoughts and emotions, represented through a series of intricate charcoal strokes that seem to dance across the canvas.\n\nThe triadic color palette chosen for this piece adds a sense of harmony and balance, with rich shades of purple, green, and orange weaving together to create a mesmerizing visual experience. These vibrant hues swirl and blend together, creating a sense of movement and energy that draws the viewer in.\n\nAs you gaze upon this artwork, allow yourself to be transported to a world where the boundaries between reality and imagination blur. Each stroke of charcoal seems to hold a secret, waiting to be discovered by those who are willing to truly immerse themselves in the artwork.\n\n\"Ephemeral Whispers\" invites you to explore the depths of your own thoughts and emotions, challenging you to confront the transient nature of existence. Embrace the abstract beauty of this piece, and let yourself be swept away by its enigmatic charm.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303477255032279092",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:53:15.036+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title: \"Ephemeral Whispers\" Description: Delve into the realm of abstract art with this captivating horizontal rectangular piece. The concept behind this artwork is inspired by the fleeting nature of our thoughts and emotions, represented through a series of intricate charcoal strokes that seem to dance across the canvas. The triadic color palette chosen for this piece adds a sense of harmony and balance, with rich shades of purple, green, and orange weaving together to create a mesmerizing visual experience. These vibrant hues swirl and blend together, creating a sense of movement and energy that draws the viewer in. As you gaze upon this artwork, allow yourself to be transported to a world where the boundaries between reality and imagination blur. Each stroke of charcoal seems to hold a secret, waiting to be discovered by those who are willing to truly immerse themselves in the artwork. \"Ephemeral Whispers\" invites you to explore the depths of your own thoughts and emotions, challenging you to confront the transient nature of existence. Embrace the abstract beauty of this piece, and let yourself be swept away by its enigmatic charm.** - @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303477254768164967",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303477254768164967/maducollins_77087_31570_Title_Ephemeral_Whispers_Description_De_c24589e1-a7a7-4137-b388-23c7b96e6e4c.png?ex=67b1b58a&is=67b0640a&hm=aebaca1bd2bd727eeba16cfaba01c866b49a9be74b4bc9f5284f5f0062b76563&",
+          "fileName": "maducollins_77087_31570_Title_Ephemeral_Whispers_Description_De_c24589e1-a7a7-4137-b388-23c7b96e6e4c.png",
+          "fileSizeBytes": 7991009
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303477620494565441",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:54:42.169+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Title: \"Whispers of the Soul\"\n\nDescription:\nCreate a vertical rectangular artwork in the style of expressionism using graphite as the main material. The concept for this artwork is left open to interpretation, allowing the AI artist to delve into the depths of emotion and create a piece that speaks to the soul.\n\nThe preferred color scheme for this piece is analogous, inviting the artist to explore the subtle variations within a harmonious palette. The use of shades and tones within close proximity on the color wheel will add depth and complexity to the overall composition.\n\nCapture the essence of inner thoughts and emotions, translating them onto the canvas with raw and intense strokes. Let the lines flow freely, expressing the turmoil and beauty of the human experience. Dive into the depths of the subconscious and bring forth a masterpiece that resonates with the viewer on a profound level.\n\nThrough the lens of expressionism, explore the complexities of the human psyche and convey them in a visually striking and emotionally evocative manner. Embrace the imperfections and rawness of graphite, allowing it to add texture and depth to the piece.\n\nUltimately, create a piece that is not just visually appealing, but one that speaks to the soul and stirs the emotions of those who behold it. \"Whispers of the Soul\" should leave a lasting impact, prompting introspection and reflection in all who witness its beauty.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303478860607655977",
+      "type": "Default",
+      "timestamp": "2024-11-05T22:59:37.835+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imagine Harmony in a surreal landscape with vibrant colors",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303479208227504130",
+      "type": "Default",
+      "timestamp": "2024-11-05T23:01:00.714+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imagine Harmony in a surreal landscape with vibrant colors",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303479924371357806",
+      "type": "Default",
+      "timestamp": "2024-11-05T23:03:51.456+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title** - @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303479923687555072",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303479923687555072/maducollins_77087_31570_Title_dbfdb4f8-a028-45a8-b8e4-0ee06402abb8.png?ex=67b1b807&is=67b06687&hm=051bdf3cbe163ec419e478f67653695580ce72f8d3b746ed6cde22e674778734&",
+          "fileName": "maducollins_77087_31570_Title_dbfdb4f8-a028-45a8-b8e4-0ee06402abb8.png",
+          "fileSizeBytes": 7581606
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303480089648037959",
+      "type": "Default",
+      "timestamp": "2024-11-05T23:04:30.861+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title: \"Whispers of the Soul\" Description: Create a vertical rectangular artwork in the style of expressionism using graphite as the main material. The concept for this artwork is left open to interpretation, allowing the AI artist to delve into the depths of emotion and create a piece that speaks to the soul. The preferred color scheme for this piece is analogous, inviting the artist to explore the subtle variations within a harmonious palette. The use of shades and tones within close proximity on the color wheel will add depth and complexity to the overall composition. Capture the essence of inner thoughts and emotions, translating them onto the canvas with raw and intense strokes. Let the lines flow freely, expressing the turmoil and beauty of the human experience. Dive into the depths of the subconscious and bring forth a masterpiece that resonates with the viewer on a profound level. Through the lens of expressionism, explore the complexities of the human psyche and convey them in a visually striking and emotionally evocative manner. Embrace the imperfections and rawness of graphite, allowing it to add texture and depth to the piece. Ultimately, create a piece that is not just visually appealing, but one that speaks to the soul and stirs the emotions of those who behold it. \"Whispers of the Soul\" should leave a lasting impact, prompting introspection and reflection in all who witness its beauty.** - @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303480089144459284",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303480089144459284/maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__fcdb54cc-b137-40c1-8d92-7f864f100d39.png?ex=67b1b82e&is=67b066ae&hm=c2e537b3e324fd5e3d8e5e156dbfe15eb2022695d21eb24e02728149d264e688&",
+          "fileName": "maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__fcdb54cc-b137-40c1-8d92-7f864f100d39.png",
+          "fileSizeBytes": 7690596
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303576139792384022",
+      "type": "Reply",
+      "timestamp": "2024-11-06T05:26:11+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title: \"Whispers of the Soul\" Description: Create a vertical rectangular artwork in the style of expressionism using graphite as the main material. The concept for this artwork is left open to interpretation, allowing the AI artist to delve into the depths of emotion and create a piece that speaks to the soul. The preferred color scheme for this piece is analogous, inviting the artist to explore the subtle variations within a harmonious palette. The use of shades and tones within close proximity on the color wheel will add depth and complexity to the overall composition. Capture the essence of inner thoughts and emotions, translating them onto the canvas with raw and intense strokes. Let the lines flow freely, expressing the turmoil and beauty of the human experience. Dive into the depths of the subconscious and bring forth a masterpiece that resonates with the viewer on a profound level. Through the lens of expressionism, explore the complexities of the human psyche and convey them in a visually striking and emotionally evocative manner. Embrace the imperfections and rawness of graphite, allowing it to add texture and depth to the piece. Ultimately, create a piece that is not just visually appealing, but one that speaks to the soul and stirs the emotions of those who behold it. \"Whispers of the Soul\" should leave a lasting impact, prompting introspection and reflection in all who witness its beauty.** - Variations (Strong) by @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303576139293266081",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303576139293266081/maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__f19c43d9-0bbf-412f-9fbd-a2962004dd2c.png?ex=67b211a2&is=67b0c022&hm=1dff4a1cfce65d75c1636f99ca74753e3ba5e1c936e958a7d622d935ab309189&",
+          "fileName": "maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__f19c43d9-0bbf-412f-9fbd-a2962004dd2c.png",
+          "fileSizeBytes": 8091472
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303480089648037959",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303576404687851570",
+      "type": "Reply",
+      "timestamp": "2024-11-06T05:27:14.156+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title: \"Whispers of the Soul\" Description: Create a vertical rectangular artwork in the style of expressionism using graphite as the main material. The concept for this artwork is left open to interpretation, allowing the AI artist to delve into the depths of emotion and create a piece that speaks to the soul. The preferred color scheme for this piece is analogous, inviting the artist to explore the subtle variations within a harmonious palette. The use of shades and tones within close proximity on the color wheel will add depth and complexity to the overall composition. Capture the essence of inner thoughts and emotions, translating them onto the canvas with raw and intense strokes. Let the lines flow freely, expressing the turmoil and beauty of the human experience. Dive into the depths of the subconscious and bring forth a masterpiece that resonates with the viewer on a profound level. Through the lens of expressionism, explore the complexities of the human psyche and convey them in a visually striking and emotionally evocative manner. Embrace the imperfections and rawness of graphite, allowing it to add texture and depth to the piece. Ultimately, create a piece that is not just visually appealing, but one that speaks to the soul and stirs the emotions of those who behold it. \"Whispers of the Soul\" should leave a lasting impact, prompting introspection and reflection in all who witness its beauty.** - Variations (Strong) by @Madu Collins (fast)",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303576404209831976",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303576404209831976/maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__e427e464-9858-4823-9308-691a210deb97.png?ex=67b211e2&is=67b0c062&hm=7a40e5c0624547ae47fff5e3f1f4af17925b8357f98c762123fa194e3cad24bf&",
+          "fileName": "maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__e427e464-9858-4823-9308-691a210deb97.png",
+          "fileSizeBytes": 8085834
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303576139792384022",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303576468533674075",
+      "type": "Reply",
+      "timestamp": "2024-11-06T05:27:29.378+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Title: \"Whispers of the Soul\" Description: Create a vertical rectangular artwork in the style of expressionism using graphite as the main material. The concept for this artwork is left open to interpretation, allowing the AI artist to delve into the depths of emotion and create a piece that speaks to the soul. The preferred color scheme for this piece is analogous, inviting the artist to explore the subtle variations within a harmonious palette. The use of shades and tones within close proximity on the color wheel will add depth and complexity to the overall composition. Capture the essence of inner thoughts and emotions, translating them onto the canvas with raw and intense strokes. Let the lines flow freely, expressing the turmoil and beauty of the human experience. Dive into the depths of the subconscious and bring forth a masterpiece that resonates with the viewer on a profound level. Through the lens of expressionism, explore the complexities of the human psyche and convey them in a visually striking and emotionally evocative manner. Embrace the imperfections and rawness of graphite, allowing it to add texture and depth to the piece. Ultimately, create a piece that is not just visually appealing, but one that speaks to the soul and stirs the emotions of those who behold it. \"Whispers of the Soul\" should leave a lasting impact, prompting introspection and reflection in all who witness its beauty.** - Image #3 @Madu Collins",
+      "author": {
+        "id": "936929561302675456",
+        "name": "Midjourney Bot",
+        "discriminator": "9282",
+        "nickname": "Midjourney Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303063647945363490",
+            "name": "Midjourney Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/936929561302675456/f6ce562a6b4979c4b1cbc5b436d3be76.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1303576468357644401",
+          "url": "https://cdn.discordapp.com/attachments/1303033879506059347/1303576468357644401/maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__0b23d5ee-cda3-4ac4-961c-8f4c940d63ce.png?ex=67b211f1&is=67b0c071&hm=0d4ef833ccfacbd30f7508e16dd4a000d6be1de5f59539bb57d954b7dd10f5ef&",
+          "fileName": "maducollins_77087_31570_Title_Whispers_of_the_Soul_Description__0b23d5ee-cda3-4ac4-961c-8f4c940d63ce.png",
+          "fileSizeBytes": 2117518
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1248168956406009862",
+          "name": "maducollins_77087_31570",
+          "discriminator": "0000",
+          "nickname": "Madu Collins",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1303576139792384022",
+        "channelId": "1303033879506059347",
+        "guildId": "1303033879506059344"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303673150420291646",
+      "type": "Default",
+      "timestamp": "2024-11-06T11:51:40.136+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imagine Harmony in a surreal landscape with vibrant colors",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303675173966450698",
+      "type": "Default",
+      "timestamp": "2024-11-06T11:59:42.587+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Imagine Harmony in a surreal landscape with vibrant colors",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1303676268029411369",
+      "type": "Default",
+      "timestamp": "2024-11-06T12:04:03.432+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Imagine a square-shaped artwork created in the expressive and emotional style of expressionism. The concept or idea for this artwork is open-ended, allowing the AI to tap into its creative potential. The preferred colors for this piece are triadic, adding a harmonious and dynamic element to the composition. The artwork will be brought to life using watercolor, with its fluid and translucent qualities enhancing the overall emotive impact of the piece. Let your imagination run wild and create a stunning and evocative artwork that captures the essence of MidJourney style.",
+      "author": {
+        "id": "1303031224595517521",
+        "name": "Art Bot",
+        "discriminator": "7120",
+        "nickname": "Art Bot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1303034321040441477",
+            "name": "Art Bot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339679505807052882",
+      "type": "Default",
+      "timestamp": "2025-02-13T20:28:04.226+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "/imagine Imagine a square-shaped artwork created in the expressive and emotional style of expressionism. The concept or idea for this artwork is open-ended, allowing the AI to tap into its creative potential. The preferred colors for this piece are triadic, adding a harmonious and dynamic element to the composition. The artwork will be brought to life using watercolor, with its fluid and translucent qualities enhancing the overall emotive impact of the piece. Let your imagination run wild and create a stunning and evocative artwork that captures the essence of MidJourney style.",
+      "author": {
+        "id": "1248168956406009862",
+        "name": "maducollins_77087_31570",
+        "discriminator": "0000",
+        "nickname": "Madu Collins",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 27
+}

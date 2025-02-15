@@ -1,0 +1,36 @@
+# Byte-compiled / Cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env
+*.env
+
+# Ignore logs and temp files
+
+*.tmp
+*.bak
+*.swp
+*.swo
+nohup.out
+
+# Ignore dataset & media files
+
+
+
+
+
+# IDE / Editor config files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Ignore Railway-specific files
+.railway/
+DiscordChatExporter.Cli.linux-x64
