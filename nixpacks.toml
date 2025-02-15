@@ -1,12 +1,2 @@
 [phases.setup]
-nixPkgs = ["python311", "python311Packages.pip", "python311Packages.virtualenv"]
-
-[phases.build]
-cmds = [
-  "python -m venv /app/venv",
-  "source /app/venv/bin/activate",
-  "pip install --no-cache-dir -r requirements.txt"
-]
-
-[start]
-cmd = "source /app/venv/bin/activate && uvicorn backend:app --host 0.0.0.0 --port 8000"
+nixPkgs = ["python311", "libGL", "glib", "ffmpeg", "opencv"]
